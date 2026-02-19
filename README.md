@@ -35,3 +35,44 @@ Chess_Game_Python/
 </pre>
 
 
+---
+
+## ▶ How to Run
+
+1. Clone the repository:git clone https://github.com/your-username/Chess_Game.git (see https)
+2. Navigate to project folder: cd Folder_name
+3. Run the program: python main.py
+
+
+---
+
+##  Learning Outcomes
+
+- Applied Object-Oriented Programming concepts
+- Implemented game logic and state management
+- Improved problem-solving skills
+- Worked with Python data structures
+
+---
+
+##  Future Improvements
+
+- Add GUI interface
+- Add AI opponent
+- Add move history
+- Add timer feature
+
+---
+
+## 👩 Author
+K.Leela
+GitHub: https://github.com/Lahari-1214
+
+---
+If you like this project, give it a star!
+
+
+
+
+
+
