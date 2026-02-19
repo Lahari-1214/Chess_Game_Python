@@ -54,6 +54,9 @@ Chess_Game_Python/
 - Worked with Python data structures
 
 ---
+##  Screenshots
+
+![Chess Game](OP/chess_sc.png)
 
 ##  Future Improvements
 
