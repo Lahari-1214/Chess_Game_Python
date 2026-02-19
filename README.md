@@ -56,7 +56,7 @@ Chess_Game_Python/
 ---
 ##  Screenshots
 
-![Chess Game](OP/chess_sc.png)
+![Chess Game](assets/chess_sc.png)
 
 ##  Future Improvements
 
